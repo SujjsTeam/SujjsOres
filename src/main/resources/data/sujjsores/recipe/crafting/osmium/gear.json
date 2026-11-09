@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/osmium"
+    },
+    "N": {
+      "tag": "c:nuggets/osmium"
+    }
+  },
+  "result": {
+    "id": "sujjsores:osmium_gear",
+    "count": 1
+  }
+}

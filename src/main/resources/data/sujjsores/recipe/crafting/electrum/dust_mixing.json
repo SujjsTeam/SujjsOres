@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:dusts/gold"
+    },
+    {
+      "tag": "c:dusts/silver"
+    }
+  ],
+  "result": {
+    "id": "sujjsores:electrum_dust",
+    "count": 2
+  }
+}

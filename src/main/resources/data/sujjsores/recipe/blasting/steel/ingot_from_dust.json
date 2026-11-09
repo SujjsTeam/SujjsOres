@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "steel_ingot",
+  "ingredient": {
+    "tag": "c:dusts/steel"
+  },
+  "result": {
+    "id": "sujjsores:steel_ingot"
+  }
+}

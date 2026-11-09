@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/constantan"
+    }
+  },
+  "result": {
+    "id": "sujjsores:constantan_block",
+    "count": 1
+  }
+}

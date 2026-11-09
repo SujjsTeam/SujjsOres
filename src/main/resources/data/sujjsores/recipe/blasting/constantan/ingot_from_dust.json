@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "constantan_ingot",
+  "ingredient": {
+    "tag": "c:dusts/constantan"
+  },
+  "result": {
+    "id": "sujjsores:constantan_ingot"
+  }
+}

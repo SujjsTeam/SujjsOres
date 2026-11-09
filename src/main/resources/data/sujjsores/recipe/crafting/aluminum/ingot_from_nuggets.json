@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:nuggets/aluminum"
+    }
+  },
+  "result": {
+    "id": "sujjsores:aluminum_ingot",
+    "count": 1
+  }
+}

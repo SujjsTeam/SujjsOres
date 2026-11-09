@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/enderium"
+    }
+  },
+  "result": {
+    "id": "sujjsores:enderium_block",
+    "count": 1
+  }
+}

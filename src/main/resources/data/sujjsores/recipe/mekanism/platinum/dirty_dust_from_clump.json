@@ -1,0 +1,17 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "count": 1,
+    "tag": "c:clumps/platinum"
+  },
+  "output": {
+    "count": 1,
+    "id": "sujjsores:platinum_dirty_dust"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ]
+}

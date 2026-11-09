@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "electrum_ingot",
+  "ingredient": {
+    "tag": "c:dusts/electrum"
+  },
+  "result": {
+    "id": "sujjsores:electrum_ingot"
+  }
+}

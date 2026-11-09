@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/gold"
+    },
+    "N": {
+      "tag": "c:nuggets/gold"
+    }
+  },
+  "result": {
+    "id": "sujjsores:gold_gear",
+    "count": 1
+  }
+}

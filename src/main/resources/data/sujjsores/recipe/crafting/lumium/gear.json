@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/lumium"
+    },
+    "N": {
+      "tag": "c:nuggets/lumium"
+    }
+  },
+  "result": {
+    "id": "sujjsores:lumium_gear",
+    "count": 1
+  }
+}

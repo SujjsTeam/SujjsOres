@@ -1,0 +1,23 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_end",
+  "features": [
+    "sujjsores:end/aluminum",
+    "sujjsores:end/lead",
+    "sujjsores:end/nickel",
+    "sujjsores:end/silver",
+    "sujjsores:end/tin",
+    "sujjsores:end/zinc",
+    "sujjsores:end/osmium",
+    "sujjsores:end/platinum",
+    "sujjsores:end/uranium",
+    "sujjsores:end/iridium",
+    "sujjsores:end/fluorite",
+    "sujjsores:end/ruby",
+    "sujjsores:end/sapphire",
+    "sujjsores:end/sulfur",
+    "sujjsores:end/niter",
+    "sujjsores:end/salt"
+  ],
+  "step": "underground_ores"
+}

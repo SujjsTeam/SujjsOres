@@ -1,0 +1,23 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "sujjsores:overworld/aluminum",
+    "sujjsores:overworld/lead",
+    "sujjsores:overworld/nickel",
+    "sujjsores:overworld/silver",
+    "sujjsores:overworld/tin",
+    "sujjsores:overworld/zinc",
+    "sujjsores:overworld/osmium",
+    "sujjsores:overworld/platinum",
+    "sujjsores:overworld/uranium",
+    "sujjsores:overworld/iridium",
+    "sujjsores:overworld/fluorite",
+    "sujjsores:overworld/ruby",
+    "sujjsores:overworld/sapphire",
+    "sujjsores:overworld/sulfur",
+    "sujjsores:overworld/niter",
+    "sujjsores:overworld/salt"
+  ],
+  "step": "underground_ores"
+}

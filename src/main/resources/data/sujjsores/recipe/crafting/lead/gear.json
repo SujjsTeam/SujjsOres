@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/lead"
+    },
+    "N": {
+      "tag": "c:nuggets/lead"
+    }
+  },
+  "result": {
+    "id": "sujjsores:lead_gear",
+    "count": 1
+  }
+}

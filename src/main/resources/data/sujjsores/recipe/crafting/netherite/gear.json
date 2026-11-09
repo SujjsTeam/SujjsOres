@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/netherite"
+    },
+    "N": {
+      "tag": "c:nuggets/netherite"
+    }
+  },
+  "result": {
+    "id": "sujjsores:netherite_gear",
+    "count": 1
+  }
+}

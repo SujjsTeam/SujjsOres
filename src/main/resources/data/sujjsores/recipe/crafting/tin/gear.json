@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/tin"
+    },
+    "N": {
+      "tag": "c:nuggets/tin"
+    }
+  },
+  "result": {
+    "id": "sujjsores:tin_gear",
+    "count": 1
+  }
+}

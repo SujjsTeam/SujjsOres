@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/iridium"
+    }
+  },
+  "result": {
+    "id": "sujjsores:iridium_block",
+    "count": 1
+  }
+}

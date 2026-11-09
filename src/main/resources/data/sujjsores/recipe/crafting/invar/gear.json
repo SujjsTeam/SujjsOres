@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/invar"
+    },
+    "N": {
+      "tag": "c:nuggets/invar"
+    }
+  },
+  "result": {
+    "id": "sujjsores:invar_gear",
+    "count": 1
+  }
+}

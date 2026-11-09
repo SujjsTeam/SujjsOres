@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/iridium"
+    },
+    "N": {
+      "tag": "c:nuggets/iridium"
+    }
+  },
+  "result": {
+    "id": "sujjsores:iridium_gear",
+    "count": 1
+  }
+}

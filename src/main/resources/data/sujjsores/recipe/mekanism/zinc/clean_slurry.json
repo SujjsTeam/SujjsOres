@@ -1,0 +1,21 @@
+{
+  "type": "mekanism:washing",
+  "chemical_input": {
+    "amount": 1,
+    "chemical": "sujjsores:dirty_zinc"
+  },
+  "fluid_input": {
+    "amount": 5,
+    "tag": "minecraft:water"
+  },
+  "output": {
+    "amount": 1,
+    "id": "sujjsores:clean_zinc"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ]
+}

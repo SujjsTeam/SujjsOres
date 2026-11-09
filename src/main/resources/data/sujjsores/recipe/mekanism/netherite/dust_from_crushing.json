@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:item_exists",
+        "item": "mekanism:dust_netherite"
+      }
+    }
+  ],
+  "type": "mekanism:crushing",
+  "input": {
+    "tag": "c:ingots/netherite",
+    "count": 1
+  },
+  "output": {
+    "count": 1,
+    "id": "sujjsores:netherite_dust"
+  }
+}

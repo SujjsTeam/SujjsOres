@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/enderium"
+    },
+    "N": {
+      "tag": "c:nuggets/enderium"
+    }
+  },
+  "result": {
+    "id": "sujjsores:enderium_gear",
+    "count": 1
+  }
+}

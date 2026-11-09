@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/nickel"
+    },
+    "N": {
+      "tag": "c:nuggets/nickel"
+    }
+  },
+  "result": {
+    "id": "sujjsores:nickel_gear",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "invar_ingot",
+  "ingredient": {
+    "tag": "c:dusts/invar"
+  },
+  "result": {
+    "id": "sujjsores:invar_ingot"
+  }
+}

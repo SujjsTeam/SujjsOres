@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/electrum"
+    },
+    "N": {
+      "tag": "c:nuggets/electrum"
+    }
+  },
+  "result": {
+    "id": "sujjsores:electrum_gear",
+    "count": 1
+  }
+}

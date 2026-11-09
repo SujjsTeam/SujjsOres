@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/platinum"
+    }
+  },
+  "result": {
+    "id": "sujjsores:platinum_block",
+    "count": 1
+  }
+}

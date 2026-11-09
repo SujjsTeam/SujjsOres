@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "lumium_ingot",
+  "ingredient": {
+    "tag": "c:dusts/lumium"
+  },
+  "result": {
+    "id": "sujjsores:lumium_ingot"
+  }
+}

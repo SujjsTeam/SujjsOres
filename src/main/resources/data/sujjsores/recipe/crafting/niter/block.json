@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:gems/niter"
+    }
+  },
+  "result": {
+    "id": "sujjsores:niter_block",
+    "count": 1
+  }
+}

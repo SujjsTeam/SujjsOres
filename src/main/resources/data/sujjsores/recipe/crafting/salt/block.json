@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:dusts/salt"
+    }
+  },
+  "result": {
+    "id": "sujjsores:salt_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:raw_materials/zinc"
+    }
+  },
+  "result": {
+    "id": "sujjsores:raw_zinc_block",
+    "count": 1
+  }
+}

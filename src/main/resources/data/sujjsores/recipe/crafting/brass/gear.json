@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/brass"
+    },
+    "N": {
+      "tag": "c:nuggets/brass"
+    }
+  },
+  "result": {
+    "id": "sujjsores:brass_gear",
+    "count": 1
+  }
+}

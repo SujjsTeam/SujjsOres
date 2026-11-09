@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/constantan"
+    },
+    "N": {
+      "tag": "c:nuggets/constantan"
+    }
+  },
+  "result": {
+    "id": "sujjsores:constantan_gear",
+    "count": 1
+  }
+}

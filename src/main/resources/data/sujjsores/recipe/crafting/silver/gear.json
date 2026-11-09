@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/silver"
+    },
+    "N": {
+      "tag": "c:nuggets/silver"
+    }
+  },
+  "result": {
+    "id": "sujjsores:silver_gear",
+    "count": 1
+  }
+}

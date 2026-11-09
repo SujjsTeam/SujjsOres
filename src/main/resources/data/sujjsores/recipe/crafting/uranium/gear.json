@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/uranium"
+    },
+    "N": {
+      "tag": "c:nuggets/uranium"
+    }
+  },
+  "result": {
+    "id": "sujjsores:uranium_gear",
+    "count": 1
+  }
+}

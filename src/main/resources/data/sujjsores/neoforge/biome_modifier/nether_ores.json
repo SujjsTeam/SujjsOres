@@ -1,0 +1,23 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": [
+    "sujjsores:nether/aluminum",
+    "sujjsores:nether/lead",
+    "sujjsores:nether/nickel",
+    "sujjsores:nether/silver",
+    "sujjsores:nether/tin",
+    "sujjsores:nether/zinc",
+    "sujjsores:nether/osmium",
+    "sujjsores:nether/platinum",
+    "sujjsores:nether/uranium",
+    "sujjsores:nether/iridium",
+    "sujjsores:nether/fluorite",
+    "sujjsores:nether/ruby",
+    "sujjsores:nether/sapphire",
+    "sujjsores:nether/sulfur",
+    "sujjsores:nether/niter",
+    "sujjsores:nether/salt"
+  ],
+  "step": "underground_ores"
+}

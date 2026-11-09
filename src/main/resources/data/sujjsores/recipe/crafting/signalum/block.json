@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/signalum"
+    }
+  },
+  "result": {
+    "id": "sujjsores:signalum_block",
+    "count": 1
+  }
+}

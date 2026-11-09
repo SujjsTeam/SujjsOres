@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:gems/fluorite"
+    }
+  },
+  "result": {
+    "id": "sujjsores:fluorite_block",
+    "count": 1
+  }
+}

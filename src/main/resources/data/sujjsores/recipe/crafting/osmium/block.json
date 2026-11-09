@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/osmium"
+    }
+  },
+  "result": {
+    "id": "sujjsores:osmium_block",
+    "count": 1
+  }
+}

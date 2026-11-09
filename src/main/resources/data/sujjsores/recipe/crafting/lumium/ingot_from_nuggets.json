@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:nuggets/lumium"
+    }
+  },
+  "result": {
+    "id": "sujjsores:lumium_ingot",
+    "count": 1
+  }
+}

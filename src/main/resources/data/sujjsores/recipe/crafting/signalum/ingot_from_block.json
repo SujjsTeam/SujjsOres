@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/signalum"
+    }
+  ],
+  "result": {
+    "id": "sujjsores:signalum_ingot",
+    "count": 9
+  }
+}

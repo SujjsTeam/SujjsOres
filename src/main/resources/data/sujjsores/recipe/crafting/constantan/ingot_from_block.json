@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/constantan"
+    }
+  ],
+  "result": {
+    "id": "sujjsores:constantan_ingot",
+    "count": 9
+  }
+}

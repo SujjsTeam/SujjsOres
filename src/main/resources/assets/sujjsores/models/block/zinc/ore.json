@@ -1,0 +1,7 @@
+{
+  "parent": "sujjsores:block/ore_overlay",
+  "textures": {
+    "base": "minecraft:block/stone",
+    "overlay": "sujjsores:block/zinc/ore_overlay"
+  }
+}
